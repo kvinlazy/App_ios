@@ -1,3 +1,3 @@
 # App_ios
-## [First App](#test1)
-## [Cat Years](#cat_app)
+## [First App](https://github.com/kvinlazy/App_ios/tree/master/test1)
+## [Cat Years](https://github.com/kvinlazy/App_ios/tree/master/Cat_app)
