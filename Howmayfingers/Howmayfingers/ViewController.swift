@@ -21,7 +21,7 @@ class ViewController: UIViewController {
             if inputUser.text?.count == 1
             {
             output.text = "Checking answer ..."
-            num = Int.random(in: 1 ... 5)
+            num = Int.random(in: 0 ... 5)
                 
                 if num == Int(inputUser.text!)
                 {
