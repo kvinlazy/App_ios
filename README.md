@@ -9,3 +9,4 @@
 ## [To Do](https://github.com/kvinlazy/App_ios/tree/master/To%20Do%20list)
 ## [Weather check](https://github.com/kvinlazy/App_ios/tree/master/Whats%20weather)
 ## [Tic Tac Toe](https://github.com/kvinlazy/App_ios/tree/master/tic%20tac%20toe)
+## [Location Aware](https://github.com/kvinlazy/App_ios/tree/master/Location%20aware)
